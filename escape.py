@@ -10,4 +10,4 @@ radio = float(input("ingrese el radio [en kilometros]: "))
 rmt= radio*1000
 ve1=2*rmt*gravedad
 ve= math.sqrt(ve1)
-print(f"la velocidad de escape es: {ve}")
+print(f"la velocidad de escape es: {ve}[m/s]")
