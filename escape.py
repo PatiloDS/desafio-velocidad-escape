@@ -5,7 +5,7 @@
 import math
 
 print(" se realizara el calculo de la velocidad de escape")
-gravedad = float(input("ingrese el radio [en metros]: "))
+gravedad = float(input("ingrese la gravedad [en metros]: "))
 radio = float(input("ingrese el radio [en kilometros]: "))
 rmt= radio*1000
 ve1=2*rmt*gravedad
